@@ -35,13 +35,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
-- [⭐ BONUS: STACKr News Shorts - How To Accept Payments With Stripe](https://www.youtube.com/watch?v=dOnI3CtvFD4)
-- [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU)
-- [⭐ BONUS: STACKr News Shorts - Tailwind Just in Time Tutorial](https://www.youtube.com/watch?v=CGVWCcwVrfU)
-- [VS Code Anywhere! Use THIS Trick to get GitHub Codespaces NOW!](https://www.youtube.com/watch?v=RezYIIJYZ6Y)
-
+- [#RuslDagsins #TrashOfTheDay #4 #Shorts](https://www.youtube.com/watch?v=ATgfqtwVYSo)
+- [Boat update   Delays](https://www.youtube.com/watch?v=P8O6o9beMko)
+- [Rusl Dagsins 3 #Shorts](https://www.youtube.com/watch?v=59cO3U7QQgc)
+- [#TrashOfTheDay 2 #Shorts](https://www.youtube.com/watch?v=PU4xJVnZ63I)
+- [Trash of the day 1st short #Shorts](https://www.youtube.com/watch?v=0X4V096AAXQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/Huldar)
