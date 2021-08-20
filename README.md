@@ -55,7 +55,7 @@
 - [Trash of the day 1st short #Shorts](https://www.youtube.com/watch?v=0X4V096AAXQ)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](youtube)
+➡️ [more videos...](https://youtube.com/channel/UCVo_mlGC_Y9I1ETIP_AaN6A)
 
 ---
 
