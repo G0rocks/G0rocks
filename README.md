@@ -60,7 +60,7 @@
 ---
 
 <details>
-  <summary>Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 
