@@ -77,6 +77,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Huldar's GitHub Stats" src="https://github-readme-stats.Huldar.vercel.app/api?username=Huldar&show_icons=true&hide_border=true" />
+<img align="left" alt="Huldar's GitHub Stats" src="https://github-readme-stats.G0rocks.vercel.app/api?username=G0rocks&show_icons=true&hide_border=true" />
 
 </details>
