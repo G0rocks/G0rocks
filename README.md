@@ -60,7 +60,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 
@@ -75,8 +75,8 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
-<img align="left" alt="Huldar's GitHub Stats" src="https://github-readme-stats.G0rocks.vercel.app/api?username=G0rocks&show_icons=true&hide_border=true" />
+[![Huldar's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0rocks)](https://github.com/G0rocks/github-readme-stats)
 
 </details>
