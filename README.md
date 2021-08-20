@@ -24,7 +24,9 @@
 [rust]: https://www.rust-lang.org/
 [git]: https://git-scm.com/
 [github]: https://github.com/
+[cmd]: https://en.wikipedia.org/wiki/Command-line_interface
 [freecad]: https://www.freecadweb.org/
+[autodesk]: https://www.autodesk.com/
 
 <br />
 
@@ -35,7 +37,8 @@
 [<img align="left" alt="Rust" width="26px" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" />][rust]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="Command Line" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][cmd]
+[<img align="left" alt="Freecad" width="26px" src="https://camo.githubusercontent.com/42707761ddcdc27dd522db8949216f67238216261afc6220597c1b9361cf1ea9/68747470733a2f2f7777772e667265656361647765622e6f72672f696d616765732f6c6f676f2e706e67" />][freecad]
 
 <br />
 <br />
