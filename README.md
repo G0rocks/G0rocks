@@ -80,3 +80,5 @@
 [![Huldar's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0rocks)](https://github.com/G0rocks/github-readme-stats)
 
 </details>
+
+Credit to this neat opening page: [codeSTACKR](https://www.youtube.com/watch?app=desktop&v=ECuqb5Tv9qI)
