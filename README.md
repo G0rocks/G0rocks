@@ -36,13 +36,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
-- [⭐ BONUS: STACKr News Shorts - How To Accept Payments With Stripe](https://www.youtube.com/watch?v=dOnI3CtvFD4)
-- [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU)
-- [⭐ BONUS: STACKr News Shorts - Tailwind Just in Time Tutorial](https://www.youtube.com/watch?v=CGVWCcwVrfU)
-- [VS Code Anywhere! Use THIS Trick to get GitHub Codespaces NOW!](https://www.youtube.com/watch?v=RezYIIJYZ6Y)
-
+- [#RuslDagsins #TrashOfTheDay #4 #Shorts](https://www.youtube.com/watch?v=ATgfqtwVYSo)
+- [Boat update   Delays](https://www.youtube.com/watch?v=P8O6o9beMko)
+- [Rusl Dagsins 3 #Shorts](https://www.youtube.com/watch?v=59cO3U7QQgc)
+- [#TrashOfTheDay 2 #Shorts](https://www.youtube.com/watch?v=PU4xJVnZ63I)
+- [Trash of the day 1st short #Shorts](https://www.youtube.com/watch?v=0X4V096AAXQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](youtube)
@@ -54,11 +52,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/Huldar/portfolio-sass/issues/2) in [Huldar/portfolio-sass](https://github.com/Huldar/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/Huldar/portfolio-sass/issues/2) in [Huldar/portfolio-sass](https://github.com/Huldar/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/Huldar/free-developer-resources/pull/11) in [Huldar/free-developer-resources](https://github.com/Huldar/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/Huldar/free-developer-resources/issues/11) in [Huldar/free-developer-resources](https://github.com/Huldar/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/Huldar/free-developer-resources/pull/10) in [Huldar/free-developer-resources](https://github.com/Huldar/free-developer-resources)
+1. ❗️ Opened issue [#2](https://github.com/G0rocks/Gmail-analytics/issues/2) in [G0rocks/Gmail-analytics](https://github.com/G0rocks/Gmail-analytics)
+2. ❗️ Opened issue [#1](https://github.com/G0rocks/Gmail-analytics/issues/1) in [G0rocks/Gmail-analytics](https://github.com/G0rocks/Gmail-analytics)
+3. 💪 Opened PR [#35](https://github.com/Steinarr134/moteinopy/pull/35) in [Steinarr134/moteinopy](https://github.com/Steinarr134/moteinopy)
+4. 🗣 Commented on [#9](https://github.com/loony-bean/textplots-rs/issues/9) in [loony-bean/textplots-rs](https://github.com/loony-bean/textplots-rs)
+5. 🗣 Commented on [#8546](https://github.com/microsoft/winget-pkgs/issues/8546) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
 <!--END_SECTION:activity-->
 
