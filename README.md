@@ -1,6 +1,7 @@
 ### Hi my name is [Huldar][website] 👋
 
-![Website](https://img.shields.io/website?label=Huldar.pb.style&style=for-the-badge&url=https://huldar.pb.style/)
+
+[![Website](https://img.shields.io/website?label=huldar.pb.style&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://huldar.pb.style/)
 
 ## I'm a student, scout and a just excited person!!
 
@@ -44,7 +45,7 @@
 
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/Huldar)
+➡️ [more videos...](youtube)
 
 ---
 
