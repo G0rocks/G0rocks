@@ -1,5 +1,5 @@
-### Hi my name is [Huldar][website_about_me] 👋
-
+```
+### ```Hi my name is [Huldar][website_about_me] 👋
 
 [![Website](https://img.shields.io/website?label=huldar.pb.style&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://huldar.pb.style/)
 
@@ -13,20 +13,6 @@
 [<img align="left" alt="Huldar | Website" width="22px" src="Images/H.svg" />][website]
 [<img align="left" alt="Huldar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Huldar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[website]: https://huldar.pb.style/
-[website_about_me]: https://huldar.pb.style/about_me/
-[youtube]: https://youtube.com/channel/UCVo_mlGC_Y9I1ETIP_AaN6A
-[linkedin]: https://linkedin.com/in/huldar-h-323417190/
-
-[vscode]: https://code.visualstudio.com/
-[javascript]: https://www.javascript.com/
-[rust]: https://www.rust-lang.org/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[cmd]: https://en.wikipedia.org/wiki/Command-line_interface
-[freecad]: https://www.freecadweb.org/
-[autodesk]: https://www.autodesk.com/
 
 <br />
 
@@ -48,11 +34,13 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [#RuslDagsins #TrashOfTheDay #4 #Shorts](https://www.youtube.com/watch?v=ATgfqtwVYSo)
 - [Boat update   Delays](https://www.youtube.com/watch?v=P8O6o9beMko)
 - [Rusl Dagsins 3 #Shorts](https://www.youtube.com/watch?v=59cO3U7QQgc)
 - [#TrashOfTheDay 2 #Shorts](https://www.youtube.com/watch?v=PU4xJVnZ63I)
 - [Trash of the day 1st short #Shorts](https://www.youtube.com/watch?v=0X4V096AAXQ)
+
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCVo_mlGC_Y9I1ETIP_AaN6A)
@@ -82,3 +70,17 @@
 </details>
 
 Credit to this neat opening page: [codeSTACKR](https://www.youtube.com/watch?app=desktop&v=ECuqb5Tv9qI)
+
+[website]: http://hul-dar.is
+[website_about_me]: https://huldar.pb.style/about_me/
+[youtube]: https://youtube.com/channel/UCVo_mlGC_Y9I1ETIP_AaN6A
+[linkedin]: https://linkedin.com/in/huldar-h-323417190/
+[vscode]: https://code.visualstudio.com/
+[javascript]: https://www.javascript.com/
+[rust]: https://www.rust-lang.org/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[cmd]: https://en.wikipedia.org/wiki/Command-line_interface
+[freecad]: https://www.freecadweb.org/
+[autodesk]: https://www.autodesk.com/
+```
