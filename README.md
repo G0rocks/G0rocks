@@ -50,11 +50,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2](https://github.com/G0rocks/Gmail-analytics/issues/2) in [G0rocks/Gmail-analytics](https://github.com/G0rocks/Gmail-analytics)
-2. ❗️ Opened issue [#1](https://github.com/G0rocks/Gmail-analytics/issues/1) in [G0rocks/Gmail-analytics](https://github.com/G0rocks/Gmail-analytics)
-3. 💪 Opened PR [#35](https://github.com/Steinarr134/moteinopy/pull/35) in [Steinarr134/moteinopy](https://github.com/Steinarr134/moteinopy)
-4. 🗣 Commented on [#9](https://github.com/loony-bean/textplots-rs/issues/9) in [loony-bean/textplots-rs](https://github.com/loony-bean/textplots-rs)
-5. 🗣 Commented on [#8546](https://github.com/microsoft/winget-pkgs/issues/8546) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. ❗️ Opened issue [#2](https://github.com/G0rocks/Messenger-Filter/issues/2) in [G0rocks/Messenger-Filter](https://github.com/G0rocks/Messenger-Filter)
+2. 🗣 Commented on [#1](https://github.com/G0rocks/Messenger-Filter/issues/1) in [G0rocks/Messenger-Filter](https://github.com/G0rocks/Messenger-Filter)
+3. ❗️ Opened issue [#1](https://github.com/G0rocks/Messenger-Filter/issues/1) in [G0rocks/Messenger-Filter](https://github.com/G0rocks/Messenger-Filter)
+4. ❗️ Opened issue [#2](https://github.com/G0rocks/Gmail-analytics/issues/2) in [G0rocks/Gmail-analytics](https://github.com/G0rocks/Gmail-analytics)
+5. ❗️ Opened issue [#1](https://github.com/G0rocks/Gmail-analytics/issues/1) in [G0rocks/Gmail-analytics](https://github.com/G0rocks/Gmail-analytics)
 
 <!--END_SECTION:activity-->
 
