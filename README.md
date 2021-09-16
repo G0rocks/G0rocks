@@ -34,11 +34,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bláa Lóns Þrautin   Blue Lagoon Challenge](https://www.youtube.com/watch?v=omPwSTRUtZY)
 - [#TrashOfTheDay #6 #Shorts](https://www.youtube.com/watch?v=7p2OyroEero)
 - [#RuslDagsins #TrashOfTheDay #5 #Shorts](https://www.youtube.com/watch?v=GGQ56FBiVqY)
 - [#RuslDagsins #TrashOfTheDay #4 #Shorts](https://www.youtube.com/watch?v=ATgfqtwVYSo)
 - [Boat update   Delays](https://www.youtube.com/watch?v=P8O6o9beMko)
-- [Rusl Dagsins 3 #Shorts](https://www.youtube.com/watch?v=59cO3U7QQgc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCVo_mlGC_Y9I1ETIP_AaN6A)
