@@ -1,11 +1,10 @@
-```
-### ```Hi my name is [Huldar][website_about_me] 👋
+### Hi my name is [Huldar][website_about_me] 👋
 
 [![Website](https://img.shields.io/website?label=huldar.pb.style&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://huldar.pb.style/)
 
 ## I'm a student, scout and a just excited person!!
 
-- 🌱 I’m currently studying mechanical engineering at the University of Iceland
+- 🌱 I’m a graduate student in mechanical engineering at Reykjavik University
 - ☮ Scouting at Skátafélagið Vífill
 
 ### Connect with me:
@@ -81,4 +80,3 @@ Credit to this neat opening page: [codeSTACKR](https://www.youtube.com/watch?app
 [cmd]: https://en.wikipedia.org/wiki/Command-line_interface
 [freecad]: https://www.freecadweb.org/
 [autodesk]: https://www.autodesk.com/
-```
