@@ -4,7 +4,7 @@
 
 ## I'm a student, scout and a just excited person!!
 
-- 🌱 I’m currently studying mechanical engineering at the University of Iceland
+- 🌱 I’m a graduate student in mechanical engineering at Reykjavik University
 - ☮ Scouting at Skátafélagið Vífill
 
 ### Connect with me:
