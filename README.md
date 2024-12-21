@@ -1,5 +1,4 @@
-```
-### ```Hi my name is [Huldar][website_about_me] 👋
+### Hi my name is [Huldar][website_about_me] 👋
 
 [![Website](https://img.shields.io/website?label=huldar.pb.style&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://huldar.pb.style/)
 
